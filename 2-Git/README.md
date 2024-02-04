@@ -4,6 +4,9 @@
 
 Version control systems (VCS) are essential tools for tracking changes in software projects, allowing you to maintain a complete history of modifications made to your codebase. This enables developers to easily collaborate, track progress, and revert changes if needed.
 
+# Difference between git and github:
+Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. 
+
 ## Working with Git
 
 Git is a popular distributed version control system designed for handling projects of all sizes with speed and efficiency. It is widely used by developers around the world and has become the de facto standard for version control.
